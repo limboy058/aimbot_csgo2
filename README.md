@@ -74,7 +74,7 @@ demo_win_pytorch_yolov10 是 yolov10版本的代码，需要配置DXGI库和安�
 
 #### 2. demo_win_pytorch_easy
 
-推荐使用这个版本。性能大概为25帧率还算够用，配置简单
+推荐使用这个版本。使用mss截图，windows鼠标移动事件控制鼠标。性能大概为25帧率还算够用，配置简单
 
 建议使用纯净的环境，
 
@@ -92,13 +92,25 @@ demo_win_pytorch_yolov10 是 yolov10版本的代码，需要配置DXGI库和安�
 
 #### 3. demo_win_pytorch_normal
 
+您需要在python3.9下运行这些代码。因为DXGI.pyd的版本是3.9的
+
+**注意！**在这个文件夹中，由于*opencv_world451.dll*、*opencv_world3416.dll*、*LGS_9.02.65_x64_Logitech.exe*过大，我无法上传至github，请从网盘下载并放置到此目录下。
+
+<img src="README.assets/image-20240625205224948.png" alt="image-20240625205224948" style="zoom:67%;" />
+
+链接：https://pan.baidu.com/s/1qxnk2-O394in103lYk3aJQ?pwd=qzlz ，网盘链接里的压缩包包含：
+
+<img src="README.assets/image-20240625214210114.png" alt="image-20240625214210114" style="zoom: 67%;" />
+
+
+
 您可以使用test_files中的文件来测试环境是否安装成功
 
 ①使用纯净的环境，参考官网配置好YOLOv8环境
 
 ②进入此文件夹pip安装requirements.txt。
 
-③卸载罗技鼠标驱动（如果有的话），并安装驱动*LGS_9.02.65_x64_Logitech.exe*，其大小大概为120MB，您可以在网上自行下载。
+③卸载罗技鼠标驱动（如果有的话），并安装驱动*LGS_9.02.65_x64_Logitech.exe*，其大小大概为120MB，您可以在网盘下载
 
 打开此软件，电脑重启后需要重新打开软件。
 
@@ -148,7 +160,7 @@ demo_win_pytorch_yolov10 是 yolov10版本的代码，需要配置DXGI库和安�
 
 nvidia驱动支持的最高版本：CUDA Version: 12.3（命令行输入nvidim-smi可查看）
 
-cuda安装版本：12.1
+cuda安装版本：12.1 （命令行输入nvcc -V查看）
 
 python版本：3.9.19
 
