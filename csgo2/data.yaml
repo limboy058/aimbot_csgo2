@@ -1,0 +1,6 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 5
+names: ['ct_head', 'ct_body', 't_head', 't_body', 'chicken']

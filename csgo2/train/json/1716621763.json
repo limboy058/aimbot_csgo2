@@ -1,0 +1,118 @@
+{
+  "version": "2.3.5",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "ct_head",
+      "points": [
+        [
+          119.44444444444446,
+          207.34126984126982
+        ],
+        [
+          140.07936507936512,
+          207.34126984126982
+        ],
+        [
+          140.07936507936512,
+          232.34126984126982
+        ],
+        [
+          119.44444444444446,
+          232.34126984126982
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "ct_body",
+      "points": [
+        [
+          96.42857142857144,
+          205.75396825396825
+        ],
+        [
+          147.22222222222223,
+          205.75396825396825
+        ],
+        [
+          147.22222222222223,
+          337.89682539682536
+        ],
+        [
+          96.42857142857144,
+          337.89682539682536
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "ct_head",
+      "points": [
+        [
+          486.1111111111111,
+          160.1190476190476
+        ],
+        [
+          499.0,
+          160.1190476190476
+        ],
+        [
+          499.0,
+          175
+        ],
+        [
+          486.1111111111111,
+          175
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "ct_body",
+      "points": [
+        [
+          482.53968253968253,
+          159.7222222222222
+        ],
+        [
+          499.0,
+          159.7222222222222
+        ],
+        [
+          499.0,
+          248
+        ],
+        [
+          482.53968253968253,
+          248
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    }
+  ],
+  "imagePath": "1716621763.png",
+  "imageData": null,
+  "imageHeight": 500,
+  "imageWidth": 500
+}

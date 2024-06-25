@@ -1,0 +1,5 @@
+numpy==2.0.0
+opencv_python==4.9.0.80
+pynput==1.7.7
+torch==2.2.0+cu121
+ultralytics==8.2.15

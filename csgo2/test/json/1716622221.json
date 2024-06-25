@@ -1,0 +1,64 @@
+{
+  "version": "2.3.5",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "chicken",
+      "points": [
+        [
+          0.0,
+          220
+        ],
+        [
+          46.01769911504431,
+          220
+        ],
+        [
+          46.01769911504431,
+          280.30973451327435
+        ],
+        [
+          0.0,
+          280.30973451327435
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "chicken",
+      "points": [
+        [
+          445.575221238938,
+          212.61061946902657
+        ],
+        [
+          480.9734513274337,
+          212.61061946902657
+        ],
+        [
+          480.9734513274337,
+          249.7787610619469
+        ],
+        [
+          445.575221238938,
+          249.7787610619469
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    }
+  ],
+  "imagePath": "1716622221.png",
+  "imageData": null,
+  "imageHeight": 500,
+  "imageWidth": 500
+}

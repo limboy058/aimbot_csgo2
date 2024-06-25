@@ -1,0 +1,37 @@
+{
+  "version": "2.3.5",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "chicken",
+      "points": [
+        [
+          149.60317460317464,
+          195.83333333333331
+        ],
+        [
+          188.09523809523813,
+          195.83333333333331
+        ],
+        [
+          188.09523809523813,
+          249.4047619047619
+        ],
+        [
+          149.60317460317464,
+          249.4047619047619
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    }
+  ],
+  "imagePath": "1716622212.png",
+  "imageData": null,
+  "imageHeight": 500,
+  "imageWidth": 500
+}

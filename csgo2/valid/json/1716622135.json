@@ -1,0 +1,37 @@
+{
+  "version": "2.3.5",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "ct_body",
+      "points": [
+        [
+          245.33333333333334,
+          205.33333333333334
+        ],
+        [
+          256.22222222222223,
+          205.33333333333334
+        ],
+        [
+          256.22222222222223,
+          234.66666666666666
+        ],
+        [
+          245.33333333333334,
+          234.66666666666666
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    }
+  ],
+  "imagePath": "1716622135.png",
+  "imageData": null,
+  "imageHeight": 500,
+  "imageWidth": 500
+}

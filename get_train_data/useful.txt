@@ -1,0 +1,5 @@
+yolo task=detect mode=train model=datasets/yolov8n.yaml data=datasets/data.yaml epochs=100 imgsz=320 resume=True workers=2
+
+yolo task=detect mode=predict model=d? conf=0.8 source=?
+
+yolo task=detect mode=train model=C:\Users\Limbo\Desktop\code\2024.3\AI\lab3\csgo2\yolov5n.yaml data=C:\Users\Limbo\Desktop\code\2024.3\AI\lab3\csgo2\data.yaml epochs=1000 imgsz=512 resume=True workers=2

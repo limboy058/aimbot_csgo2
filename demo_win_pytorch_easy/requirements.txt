@@ -1,0 +1,7 @@
+mss==9.0.1
+numpy==2.0.0
+opencv_python==4.9.0.80
+pynput==1.7.7
+pywin32==306
+ultralytics==8.2.15
+pywin32
